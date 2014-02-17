@@ -1,0 +1,12 @@
+{
+    "name": "RESTChat",
+    "version": "0.0.0",
+    "description": "Real time REST chat",
+    "dependencies": {
+        "socket.io": "latest",
+        "socket.io-client": "latest",
+        "express": "latest",
+        "jade": "latest"
+    },
+    "author": "Cashbit"
+}
